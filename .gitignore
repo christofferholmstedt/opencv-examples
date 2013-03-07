@@ -15,3 +15,4 @@ Makefile
 *.cmake
 lib*
 *.o
+tempImage.jpg
